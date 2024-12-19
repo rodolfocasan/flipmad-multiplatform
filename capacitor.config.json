@@ -1,0 +1,22 @@
+{
+  "appId": "com.flipmad.app",
+  "appName": "FlipMAD",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0,
+      "launchAutoHide": true,
+      "backgroundColor": "#333333",
+      "androidSplashResourceName": "splash_image",
+      "androidScaleType": "CENTER_CROP",
+      "showSpinner": false
+    },
+    "LocalNotifications": {
+      "smallIcon": "notification_icon_normal",
+      "iconColor": "#FFD700",
+      "sound": "raw://notification_beep"
+    }
+  },
+  "cordova": {}
+}

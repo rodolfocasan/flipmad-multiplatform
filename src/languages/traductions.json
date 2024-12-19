@@ -1,0 +1,529 @@
+{
+    "single": {
+        "en": {
+            "board": {
+                "hintSprite": "Press a card"
+            },
+            "emergente": {
+                "title": "Time is up!",
+                "subtitle": "Max. level reached:",
+                
+                "no_coins_message": "Insufficient coins to continue",
+
+                "ad_loading": "Loading...",
+                "pause_warning": "Take a break! Your neurons will thank you.",
+                
+                "continue_button_01": "Continue Game",
+                "continue_button_02": "Continue (watch Ad)",
+                "newgame_button_01": "New Game",
+
+                "last_info": "Share your progress",
+
+                "confirm_dialog_title": "Any progress will be lost",
+                "confirm_dialog_subtitle": "Do you want to start a new game?",
+                "confirm_dialog_option_01": "Yes",
+                "confirm_dialog_option_02": "No"
+            },
+            "menu": {
+                "title": "Single",
+                "button_01": "New Game",
+                "report_button_01": "Report a bug",
+
+                "confirm_dialog_title": "Are you sure?",
+                "confirm_dialog_subtitle": "All progress will be lost...",
+                "confirm_dialog_option_01": "Yes",
+                "confirm_dialog_option_02": "No"
+            }
+        },
+        "es": {
+            "board": {
+                "hintSprite": "Presiona una carta"
+            },
+            "emergente": {
+                "title": "¡Se acabó!",
+                "subtitle": "Max. nivel alcanzado:",
+                
+                "no_coins_message": "Sin coins para continuar",
+
+                "ad_loading": "Cargando...",
+                "pause_warning": "¡Tómate un descanso! Tus neuronas te lo agradecerán.",
+                
+                "continue_button_01": "Continuar partida",
+                "continue_button_02": "Continuar (ver anuncio)",
+                "newgame_button_01": "Nueva partida",
+                
+                "last_info": "Comparte tu progreso",
+                
+                "confirm_dialog_title": "Se perderá tu progreso",
+                "confirm_dialog_subtitle": "¿Quieres empezar de nuevo?",
+                "confirm_dialog_option_01": "Sí",
+                "confirm_dialog_option_02": "No"
+            },
+            "menu": {
+                "title": "Individual",
+                "button_01": "Nueva partida",
+                "report_button_01": "Reportar bug",
+
+                "confirm_dialog_title": "Advertencia",
+                "confirm_dialog_subtitle": "Se perderá todo el progreso...",
+                "confirm_dialog_option_01": "Sí",
+                "confirm_dialog_option_02": "No"
+            }
+        },
+        "fr": {
+            "board": {
+                "hintSprite": "Touchez une carte"
+            },
+            "emergente": {
+                "title": "Temps écoulé !",
+                "subtitle": "Niveau max atteint :",
+                
+                "no_coins_message": "Pas assez de pièces pour continuer",
+
+                "ad_loading": "Chargement...",
+                "pause_warning": "Faites une pause ! Vos neurones vous remercieront.",
+                
+                "continue_button_01": "Continuer la partie",
+                "continue_button_02": "Continuer (voir une pub)",
+                "newgame_button_01": "Nouvelle partie",
+
+                "last_info": "Partagez votre progression",
+
+                "confirm_dialog_title": "Toute progression sera perdue",
+                "confirm_dialog_subtitle": "Commencer une nouvelle partie ?",
+                "confirm_dialog_option_01": "Oui",
+                "confirm_dialog_option_02": "Non"
+            },
+            "menu": {
+                "title": "Solo",
+                "button_01": "Nouvelle partie",
+                "report_button_01": "Signaler un problème",
+
+                "confirm_dialog_title": "Confirmation",
+                "confirm_dialog_subtitle": "Toute progression sera perdue...",
+                "confirm_dialog_option_01": "Oui",
+                "confirm_dialog_option_02": "Non"
+            }
+        },
+        "de": {
+            "board": {
+                "hintSprite": "Karte antippen"
+            },
+            "emergente": {
+                "title": "Zeit abgelaufen!",
+                "subtitle": "Höchstes erreichtes Level:",
+                
+                "no_coins_message": "Nicht genug Münzen zum Fortfahren",
+
+                "ad_loading": "Wird geladen...",
+                "pause_warning": "Machen Sie eine Pause! Ihre Neuronen werden es Ihnen danken.",
+                
+                "continue_button_01": "Spiel fortsetzen",
+                "continue_button_02": "Fortsetzen (Werbung ansehen)",
+                "newgame_button_01": "Neues Spiel",
+
+                "last_info": "Fortschritt teilen",
+
+                "confirm_dialog_title": "Fortschritt geht verloren",
+                "confirm_dialog_subtitle": "Neues Spiel starten?",
+                "confirm_dialog_option_01": "Ja",
+                "confirm_dialog_option_02": "Nein"
+            },
+            "menu": {
+                "title": "Einzelspieler",
+                "button_01": "Neues Spiel",
+                "report_button_01": "Fehler melden",
+
+                "confirm_dialog_title": "Bestätigung",
+                "confirm_dialog_subtitle": "Gesamter Fortschritt geht verloren...",
+                "confirm_dialog_option_01": "Ja",
+                "confirm_dialog_option_02": "Nein"
+            }
+        },
+        "pt": {
+            "board": {
+                "hintSprite": "Toque em uma carta"
+            },
+            "emergente": {
+                "title": "Tempo esgotado!",
+                "subtitle": "Nível máx. alcançado:",
+                
+                "no_coins_message": "Moedas insuficientes para continuar",
+
+                "ad_loading": "Carregando...",
+                "pause_warning": "Faça uma pausa! Seus neurônios vão agradecer.",
+                
+                "continue_button_01": "Continuar jogo",
+                "continue_button_02": "Continuar (assistir anúncio)",
+                "newgame_button_01": "Novo jogo",
+
+                "last_info": "Compartilhe seu progresso",
+
+                "confirm_dialog_title": "O progresso será perdido",
+                "confirm_dialog_subtitle": "Iniciar um novo jogo?",
+                "confirm_dialog_option_01": "Sim",
+                "confirm_dialog_option_02": "Não"
+            },
+            "menu": {
+                "title": "Individual",
+                "button_01": "Novo jogo",
+                "report_button_01": "Reportar problema",
+
+                "confirm_dialog_title": "Confirmação",
+                "confirm_dialog_subtitle": "Todo o progresso será perdido...",
+                "confirm_dialog_option_01": "Sim",
+                "confirm_dialog_option_02": "Não"
+            }
+        },
+        "ja": {
+            "board": {
+                "hintSprite": "カードをタップ"
+            },
+            "emergente": {
+                "title": "タイムアップ！",
+                "subtitle": "達成最高レベル：",
+                
+                "no_coins_message": "続行するコインが不足しています",
+
+                "ad_loading": "読み込み中...",
+                "pause_warning": "休憩を取ってください！ニューロンが感謝しますよ。",
+                
+                "continue_button_01": "ゲームを続ける",
+                "continue_button_02": "続ける（広告視聴）",
+                "newgame_button_01": "新しいゲーム",
+
+                "last_info": "進捗を共有",
+
+                "confirm_dialog_title": "進捗が失われます",
+                "confirm_dialog_subtitle": "新しいゲームを始めますか？",
+                "confirm_dialog_option_01": "はい",
+                "confirm_dialog_option_02": "いいえ"
+            },
+            "menu": {
+                "title": "シングル",
+                "button_01": "新しいゲーム",
+                "report_button_01": "バグを報告",
+
+                "confirm_dialog_title": "確認",
+                "confirm_dialog_subtitle": "すべての進捗が失われます...",
+                "confirm_dialog_option_01": "はい",
+                "confirm_dialog_option_02": "いいえ"
+            }
+        },
+        "it": {
+            "board": {
+                "hintSprite": "Tocca una carta"
+            },
+            "emergente": {
+                "title": "Tempo scaduto!",
+                "subtitle": "Livello massimo raggiunto:",
+                
+                "no_coins_message": "Monete insufficienti per continuare",
+
+                "ad_loading": "Caricamento...",
+                "pause_warning": "Fai una pausa! I tuoi neuroni ti ringrazieranno.",
+                
+                "continue_button_01": "Continua partita",
+                "continue_button_02": "Continua (guarda pubblicità)",
+                "newgame_button_01": "Nuova partita",
+
+                "last_info": "Condividi i tuoi progressi",
+
+                "confirm_dialog_title": "I progressi andranno persi",
+                "confirm_dialog_subtitle": "Vuoi iniziare una nuova partita?",
+                "confirm_dialog_option_01": "Sì",
+                "confirm_dialog_option_02": "No"
+            },
+            "menu": {
+                "title": "Singolo",
+                "button_01": "Nuova partita",
+                "report_button_01": "Segnala un problema",
+
+                "confirm_dialog_title": "Conferma",
+                "confirm_dialog_subtitle": "Tutti i progressi andranno persi...",
+                "confirm_dialog_option_01": "Sì",
+                "confirm_dialog_option_02": "No"
+            }
+        },
+        "ru": {
+            "board": {
+                "hintSprite": "Нажмите на карту"
+            },
+            "emergente": {
+                "title": "Время вышло!",
+                "subtitle": "Макс. достигнутый уровень:",
+                
+                "no_coins_message": "Недостаточно монет для продолжения",
+
+                "ad_loading": "Загрузка...",
+                "pause_warning": "Сделайте перерыв! Ваши нейроны будут вам благодарны.",
+                
+                "continue_button_01": "Продолжить игру",
+                "continue_button_02": "Продолжить (смотреть рекламу)",
+                "newgame_button_01": "Новая игра",
+
+                "last_info": "Поделиться прогрессом",
+
+                "confirm_dialog_title": "Прогресс будет потерян",
+                "confirm_dialog_subtitle": "Начать новую игру?",
+                "confirm_dialog_option_01": "Да",
+                "confirm_dialog_option_02": "Нет"
+            },
+            "menu": {
+                "title": "Одиночная игра",
+                "button_01": "Новая игра",
+                "report_button_01": "Сообщить об ошибке",
+
+                "confirm_dialog_title": "Подтверждение",
+                "confirm_dialog_subtitle": "Весь прогресс будет потерян...",
+                "confirm_dialog_option_01": "Да",
+                "confirm_dialog_option_02": "Нет"
+            }
+        },
+        "ko": {
+            "board": {
+                "hintSprite": "카드를 터치하세요"
+            },
+            "emergente": {
+                "title": "시간 종료!",
+                "subtitle": "최대 달성 레벨:",
+                
+                "no_coins_message": "계속하기에 코인이 부족합니다",
+
+                "ad_loading": "로딩 중...",
+                "pause_warning": "잠시 휴식을 취하세요! 신경세포가 감사할 것입니다.",
+                
+                "continue_button_01": "게임 계속하기",
+                "continue_button_02": "계속하기 (광고 시청)",
+                "newgame_button_01": "새 게임",
+
+                "last_info": "진행 상황 공유",
+
+                "confirm_dialog_title": "진행 상황이 사라집니다",
+                "confirm_dialog_subtitle": "새 게임을 시작하시겠습니까?",
+                "confirm_dialog_option_01": "예",
+                "confirm_dialog_option_02": "아니오"
+            },
+            "menu": {
+                "title": "싱글",
+                "button_01": "새 게임",
+                "report_button_01": "버그 신고",
+
+                "confirm_dialog_title": "확인",
+                "confirm_dialog_subtitle": "모든 진행 상황이 사라집니다...",
+                "confirm_dialog_option_01": "예",
+                "confirm_dialog_option_02": "아니오"
+            }
+        },
+        "nl": {
+            "board": {
+                "hintSprite": "Tik op een kaart"
+            },
+            "emergente": {
+                "title": "Tijd is op!",
+                "subtitle": "Max. niveau bereikt:",
+                
+                "no_coins_message": "Onvoldoende munten om door te gaan",
+
+                "ad_loading": "Laden...",
+                "pause_warning": "Neem een pauze! Je neuronen zullen je dankbaar zijn.",
+                
+                "continue_button_01": "Spel voortzetten",
+                "continue_button_02": "Doorgaan (advertentie bekijken)",
+                "newgame_button_01": "Nieuw spel",
+
+                "last_info": "Deel je voortgang",
+
+                "confirm_dialog_title": "Voortgang gaat verloren",
+                "confirm_dialog_subtitle": "Wil je een nieuw spel starten?",
+                "confirm_dialog_option_01": "Ja",
+                "confirm_dialog_option_02": "Nee"
+            },
+            "menu": {
+                "title": "Enkelvoudig",
+                "button_01": "Nieuw spel",
+                "report_button_01": "Bug melden",
+
+                "confirm_dialog_title": "Bevestiging",
+                "confirm_dialog_subtitle": "Alle voortgang gaat verloren...",
+                "confirm_dialog_option_01": "Ja",
+                "confirm_dialog_option_02": "Nee"
+            }
+        },
+        "tr": {
+            "board": {
+                "hintSprite": "Bir karta dokun"
+            },
+            "emergente": {
+                "title": "Süre doldu!",
+                "subtitle": "Ulaşılan en yüksek seviye:",
+                
+                "no_coins_message": "Devam etmek için yeterli jeton yok",
+
+                "ad_loading": "Yükleniyor...",
+                "pause_warning": "Bir mola ver! Nöronların sana minnettar olacak.",
+                
+                "continue_button_01": "Oyuna devam et",
+                "continue_button_02": "Devam et (reklam izle)",
+                "newgame_button_01": "Yeni oyun",
+
+                "last_info": "İlerlemenizi paylaşın",
+
+                "confirm_dialog_title": "İlerleme kaybedilecek",
+                "confirm_dialog_subtitle": "Yeni bir oyun başlatmak istiyor musunuz?",
+                "confirm_dialog_option_01": "Evet",
+                "confirm_dialog_option_02": "Hayır"
+            },
+            "menu": {
+                "title": "Tek kişilik",
+                "button_01": "Yeni oyun",
+                "report_button_01": "Hata bildir",
+
+                "confirm_dialog_title": "Onay",
+                "confirm_dialog_subtitle": "Tüm ilerleme kaybedilecek...",
+                "confirm_dialog_option_01": "Evet",
+                "confirm_dialog_option_02": "Hayır"
+            }
+        },
+        "pl": {
+            "board": {
+                "hintSprite": "Dotknij karty"
+            },
+            "emergente": {
+                "title": "Koniec czasu!",
+                "subtitle": "Maks. osiągnięty poziom:",
+                
+                "no_coins_message": "Za mało monet, by kontynuować",
+
+                "ad_loading": "Ładowanie...",
+                "pause_warning": "Zrób sobie przerwę! Twoje neurony będą ci wdzięczne.",
+                
+                "continue_button_01": "Kontynuuj grę",
+                "continue_button_02": "Kontynuuj (obejrzyj reklamę)",
+                "newgame_button_01": "Nowa gra",
+
+                "last_info": "Udostępnij swój postęp",
+
+                "confirm_dialog_title": "Postęp zostanie utracony",
+                "confirm_dialog_subtitle": "Czy chcesz rozpocząć nową grę?",
+                "confirm_dialog_option_01": "Tak",
+                "confirm_dialog_option_02": "Nie"
+            },
+            "menu": {
+                "title": "Pojedynczy",
+                "button_01": "Nowa gra",
+                "report_button_01": "Zgłoś błąd",
+
+                "confirm_dialog_title": "Potwierdzenie",
+                "confirm_dialog_subtitle": "Cały postęp zostanie utracony...",
+                "confirm_dialog_option_01": "Tak",
+                "confirm_dialog_option_02": "Nie"
+            }
+        },
+        "ar": {
+            "board": {
+                "hintSprite": "انقر على بطاقة"
+            },
+            "emergente": {
+                "title": "انتهى الوقت!",
+                "subtitle": "أقصى مستوى تم الوصول إليه:",
+                
+                "no_coins_message": "عملات غير كافية للاستمرار",
+
+                "ad_loading": "جاري التحميل...",
+                "pause_warning": "خذ استراحة! سوف تشكرك خلاياك العصبية.",
+                
+                "continue_button_01": "متابعة اللعبة",
+                "continue_button_02": "متابعة (مشاهدة إعلان)",
+                "newgame_button_01": "لعبة جديدة",
+
+                "last_info": "شارك تقدمك",
+
+                "confirm_dialog_title": "سيتم فقدان التقدم",
+                "confirm_dialog_subtitle": "هل تريد بدء لعبة جديدة؟",
+                "confirm_dialog_option_01": "نعم",
+                "confirm_dialog_option_02": "لا"
+            },
+            "menu": {
+                "title": "فردي",
+                "button_01": "لعبة جديدة",
+                "report_button_01": "الإبلاغ عن خطأ",
+
+                "confirm_dialog_title": "تأكيد",
+                "confirm_dialog_subtitle": "سيتم فقدان كل التقدم...",
+                "confirm_dialog_option_01": "نعم",
+                "confirm_dialog_option_02": "لا"
+            }
+        },
+        "id": {
+            "board": {
+                "hintSprite": "Tekan kartu"
+            },
+            "emergente": {
+                "title": "Waktu habis!",
+                "subtitle": "Level maks. yang dicapai:",
+                
+                "no_coins_message": "Koin tidak cukup untuk melanjutkan",
+
+                "ad_loading": "Memuat...",
+                "pause_warning": "Istirahatlah sejenak! Neuronmu akan berterima kasih.",
+                
+                "continue_button_01": "Lanjutkan permainan",
+                "continue_button_02": "Lanjutkan (tonton iklan)",
+                "newgame_button_01": "Permainan baru",
+
+                "last_info": "Bagikan kemajuan Anda",
+
+                "confirm_dialog_title": "Kemajuan akan hilang",
+                "confirm_dialog_subtitle": "Apakah Anda ingin memulai permainan baru?",
+                "confirm_dialog_option_01": "Ya",
+                "confirm_dialog_option_02": "Tidak"
+            },
+            "menu": {
+                "title": "Tunggal",
+                "button_01": "Permainan baru",
+                "report_button_01": "Laporkan bug",
+
+                "confirm_dialog_title": "Konfirmasi",
+                "confirm_dialog_subtitle": "Semua kemajuan akan hilang...",
+                "confirm_dialog_option_01": "Ya",
+                "confirm_dialog_option_02": "Tidak"
+            }
+        },
+        "hi": {
+            "board": {
+                "hintSprite": "कार्ड पर टैप करें"
+            },
+            "emergente": {
+                "title": "समय समाप्त!",
+                "subtitle": "अधिकतम प्राप्त स्तर:",
+                
+                "no_coins_message": "जारी रखने के लिए पर्याप्त सिक्के नहीं हैं",
+
+                "ad_loading": "लोड हो रहा है...",
+                "pause_warning": "थोड़ा आराम करें! आपके न्यूरॉन्स आपको धन्यवाद देंगे।",
+                
+                "continue_button_01": "गेम जारी रखें",
+                "continue_button_02": "जारी रखें (विज्ञापन देखें)",
+                "newgame_button_01": "नया गेम",
+
+                "last_info": "अपनी प्रगति साझा करें",
+
+                "confirm_dialog_title": "प्रगति खो जाएगी",
+                "confirm_dialog_subtitle": "क्या आप नया गेम शुरू करना चाहते हैं?",
+                "confirm_dialog_option_01": "हाँ",
+                "confirm_dialog_option_02": "नहीं"
+            },
+            "menu": {
+                "title": "एकल",
+                "button_01": "नया गेम",
+                "report_button_01": "बग रिपोर्ट करें",
+
+                "confirm_dialog_title": "पुष्टीकरण",
+                "confirm_dialog_subtitle": "सारी प्रगति खो जाएगी...",
+                "confirm_dialog_option_01": "हाँ",
+                "confirm_dialog_option_02": "नहीं"
+            }
+        }
+    }
+}
