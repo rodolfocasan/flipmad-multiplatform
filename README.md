@@ -63,7 +63,7 @@ npm run build
 # Usage
 Play the game directly in your browser or install the app:
 - **Web**: [Play Now](https://flipmad-multiplatform.vercel.app/)
-- **Android**: Download the APK from the [Releases](https://github.com/rodolfocasan/flipmad-multiplatform/releases) section.
+- **Android**: Download the APK from the [Releases](https://github.com/rodolfocasan/flipmad-multiplatform/releases/tag/Android) section.
 
 
 # Contact
